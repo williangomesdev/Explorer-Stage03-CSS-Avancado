@@ -17,18 +17,18 @@
 	<a href="#autor">Autor</a> 
 </p>
 
-## Sobre
+## 📌 Sobre
 
 Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobile first,animações, alinhamentos dos elementos com GRID
 
-## Funcionalidades
+## ❗ Funcionalidades
 
 - [x] Variáveis em propriedades comuns do CSS
 - [x] Estilização para mobile first
 - [x] Animações e interações com as fotos
 - [x] Alinhamento em GRID
 
-## Tecnologias
+## 💻 Tecnologias
 
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
@@ -47,7 +47,7 @@ Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobil
 </div>
 <br/>
 
-## Autor
+## 💻 Autor
 
 Criado por [Willian Amaro Gomes](https://github.com/williangomesdev)
 
