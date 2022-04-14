@@ -17,6 +17,28 @@
   --fs-heading: 4rem;
 }
 
+@keyframes topdown {
+  0% {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes downtop {
+  0% {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 body {
   font-family: var(--ff-texting);
   background: var(--bg-primary);
@@ -43,7 +65,19 @@ header {
   margin: 10.6rem 0 8rem;
   font-family: var(--ff-heading);
   text-align: center;
+  animation: topdown 0.7s;
+  /*  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+  animation-direction: reverse;
+  animation-delay: 1s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+  animation-play-state: paused; */
 }
+
+/* header:hover{
+  animation-play-state: running;
+} */
 
 header p {
   color: var(--fc-secondary);
@@ -63,6 +97,7 @@ header h1 {
 main {
   display: grid;
   gap: 3.2rem;
+  animation: downtop 0.7s 0.35s backwards;
 }
 
 .card {
