@@ -19,7 +19,7 @@
 
 ## Sobre
 
-Projeto simples de uma página, focado em uso de variáveis CSS,
+Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobile first, 
 
 ## Funcionalidades
 
