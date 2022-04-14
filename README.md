@@ -19,7 +19,7 @@
 
 ## Sobre
 
-Projeto simples de uma página que foca em conceitos de responsividade, configuração de página para mobile first, conform o dispositivo que é acessado a página se adapta para versão desktop
+Projeto simples de uma página, focado em uso de variáveis CSS,
 
 ## Funcionalidades
 
