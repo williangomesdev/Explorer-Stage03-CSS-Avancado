@@ -35,12 +35,13 @@ Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobil
 
 ## Imagens
 <br/>
+
 <img src="./gitImg/127.0.0.1_5500_Projeto03_(Nest Hub Max) (1).png"/>
 <hr/>
 <br/>
-<div style="display:grid;grid-template-columns:2fr 1fr;">
-<img src="./gitImg/127.0.0.1_5500_Projeto03_(iPad).png"width="400"/>
-<img src="./gitImg/127.0.0.1_5500_Projeto03_(Moto G4).png"width="200"/>
+<div style="display:grid;grid-template-columns:1fr 1fr;">
+<img src="./gitImg/127.0.0.1_5500_Projeto03_(iPad).png"width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./gitImg/127.0.0.1_5500_Projeto03_(Moto G4).png"width="300"/>
 </div>
 <br/>
 
