@@ -14,7 +14,8 @@
   --fc-secondary-dark: hsla(var(--hue), 100%, 11%, 1);
   font-size: 62.5%;
   --fs-body: 1.6rem;
-  --fs-heading: 4rem;
+  --fs-heading: clamp(4rem, 1rem + 5vw, 5.6rem);
+  --fs-heading-sm: clamp(3rem, 0.5rem + 3vw, 4rem);
 }
 
 @keyframes topdown {
@@ -51,13 +52,13 @@ img {
   height: auto;
   transition: all 0.2s ease;
 }
-.card img:hover{
+.card img:hover {
   transform: scale(1.1);
   filter: brightness(1);
 }
 
 .page {
-  max-width: 33rem;
+  max-width: clamp(33rem, 30rem + 60vw, 117rem);
   margin: 0 auto;
 }
 
@@ -116,7 +117,7 @@ main {
   position: absolute;
   bottom: 5.2rem;
   left: 2.8rem;
-  font-size: 4rem;
+  font-size: var(--fs-heading-sm);
   font-weight: 800;
   display: flex;
   flex-direction: column;
@@ -136,11 +137,7 @@ main {
   width: fit-content;
 }
 
-
 @media (min-width: 700px) {
-  :root {
-    --fs-heading: 5.6rem;
-  }
   .page {
     max-width: 117rem;
     padding: 0 5rem;

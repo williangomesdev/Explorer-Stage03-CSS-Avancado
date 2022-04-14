@@ -23,8 +23,10 @@ Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobil
 
 ## Funcionalidades
 
-- [x] Configurado para dispositivos mobile
-- [x] Adaptação para dispositivos maiores(Tablets e desktop)
+- [x] Variáveis em propriedades comuns do CSS
+- [x] Estilização para mobile first
+- [x] Animações e interações com as fotos
+- [x] Alinhamento em GRID
 
 ## Tecnologias
 
@@ -32,9 +34,15 @@ Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobil
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 
 ## Imagens
-
-<img src="./gitImg/127.0.0.1_5500_Projeto02_(Moto G4).png" height="auto" width="200" />
-
+<br/>
+<img src="./gitImg/127.0.0.1_5500_Projeto03_(Nest Hub Max) (1).png"/>
+<hr/>
+<br/>
+<div style="display:grid;grid-template-columns:2fr 1fr;">
+<img src="./gitImg/127.0.0.1_5500_Projeto03_(iPad).png"width="400"/>
+<img src="./gitImg/127.0.0.1_5500_Projeto03_(Moto G4).png"width="200"/>
+</div>
+<br/>
 
 ## Autor
 
