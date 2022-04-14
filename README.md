@@ -35,8 +35,10 @@ Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobil
 
 ## Imagens
 <br/>
+<p align="center">
+<img src="./gitImg/127.0.0.1_5500_Projeto03_(Nest Hub Max) (1).png" width="600"/>
+</p>
 
-<img src="./gitImg/127.0.0.1_5500_Projeto03_(Nest Hub Max) (1).png"/>
 <hr/>
 <br/>
 <div style="display:grid;grid-template-columns:1fr 1fr;">
