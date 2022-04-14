@@ -8,7 +8,6 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
-	<img src="https://img.shields.io/github/repo-size/williangomesdev/Explorer-Stage03-CSS Avançado?color=green"/>
 </p>
 
 <h4 align="center">
