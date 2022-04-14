@@ -19,7 +19,7 @@
 
 ## Sobre
 
-Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobile first,animações, 
+Projeto simples de uma página, focado em uso de variáveis CSS,cores HSL, mobile first,animações, alinhamentos dos elementos com GRID
 
 ## Funcionalidades
 
